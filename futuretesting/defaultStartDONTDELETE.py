@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 from io import BytesIO
 import base64
 
-
 matplotlib.use('Agg')
 app = Flask(__name__)
 
